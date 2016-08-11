@@ -1,1 +1,2 @@
-# 2016_SIP_VERIZON_CHI_BUS_ALERT
+# -2016_SIP_VerizonChicago_BusAlert
+Bus ride notification
